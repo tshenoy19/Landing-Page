@@ -140,3 +140,31 @@ img {
   margin-left: 300px;
   font-weight: 600;
 }
+
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: #3882f6;
+  color: white;
+  width: 140vh;
+  height: 20vh;
+  align-self: center;
+  border-radius: 15px;
+  line-height: 0.5em;
+}
+
+.callaction p {
+  font-weight: 200;
+}
+
+.signup-button button {
+  color: white;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid #e5e7eb;
+}
